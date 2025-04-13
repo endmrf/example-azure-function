@@ -1,6 +1,6 @@
 # 📦 example-azure-function
 
-Este repositório contém um exemplo de Azure Function escrita em Python, simulando um `Sistema que lista filmes`, com o objetivo de estudar recursos serverless na plataforma Azure.
+Este repositório contém uma Azure Function escrita em Python, simulando um `Sistema que lista filmes`, com o objetivo de estudar recursos serverless na plataforma Azure.
 
 ## 🚀 Requisitos
 
