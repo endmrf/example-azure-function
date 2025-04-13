@@ -70,8 +70,16 @@ Para implantar a função no Azure:
 
 ## 🔗 URLS IMPORTANTES
 - [Function (backend) na Azure](https://my-function-app-hqakhdcncxgmhad6.eastus-01.azurewebsites.net/api/movies) (GET)
-- [Código-fonte do Frontend da aplicação implantado no WebApp](https://github.com/ttuca123/trabalho-servless)
+- [Código-fonte do Frontend da aplicação implantado no Web App](https://github.com/ttuca123/trabalho-servless)
 
+É possível também criar um novo registro de filme apontando para a [mesma url](https://my-function-app-hqakhdcncxgmhad6.eastus-01.azurewebsites.net/api/movies) (método POST), passando o seguinte payload 
+
+   
+      {
+          "title": "nome do filme",
+          "gender": "gênero do filme",
+          "year": "ano do filme"
+      }
     
 ## 📚 Referências
 
