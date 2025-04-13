@@ -1,6 +1,6 @@
 # 📦 example-azure-function
 
-Este repositório contém um exemplo de Azure Function escrita em Python, com o objetivo de estudar recursos serverless na plataforma Azure.
+Este repositório contém um exemplo de Azure Function escrita em Python, simulando um `Sistema que lista filmes`, com o objetivo de estudar recursos serverless na plataforma Azure.
 
 ## 🚀 Requisitos
 
@@ -67,6 +67,11 @@ Para implantar a função no Azure:
 
     ```bash
     func azure functionapp publish myFunctionApp
+
+## 🔗 URLS IMPORTANTES
+- [Function (backend) na Azure](https://my-function-app-hqakhdcncxgmhad6.eastus-01.azurewebsites.net/api/movies) (GET)
+- [Código-fonte do Frontend da aplicação implantado no WebApp](https://github.com/ttuca123/trabalho-servless)
+
     
 ## 📚 Referências
 
